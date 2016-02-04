@@ -6,6 +6,9 @@
   list-style-type: none;
 }
 
+.white-list ~ ul{
+  color: white;
+}
 /* Images */
 .logo-aced{
   width: 30%
@@ -13,6 +16,10 @@
 
 .logo-apex img{
   width: 40%
+}
+
+.img-business img{
+  width: 60%
 }
 
 /* Colors */

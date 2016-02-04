@@ -46,12 +46,24 @@ new-slide-vertical
   <i class="fa fa-clock-o fa-3x icon-padded"></i> <i class="fa fa-plus fa-3x icon-padded"></i> <i class="fa fa-money fa-3x icon-padded"></i>
 </p>
 
+
+new-slide-vertical
+# APEX
+
+new-slide-vertical
+<!-- .slide: data-background="#000" -->
+
+<span class="img-business">
+![Business Users](www/img/business_users.jpg)
+</span>
+
 new-slide-vertical
 # APEX
 
 <span class="logo-apex">
 ![APEX](www/img/apex.png)
 </span>
+
 
 new-slide-vertical
 # Agenda

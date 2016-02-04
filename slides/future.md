@@ -13,7 +13,7 @@ new-slide-vertical
 new-slide-vertical
 <!-- .slide: data-background="#000" -->
 
-# <span class="white">Demos</span>
+# <span class="white">Demo</span>
 
 new-slide-vertical
 <!-- .slide: data-background="#000" -->

@@ -5,7 +5,9 @@ as select * from emp;
 
 alter table emp_vanoug add constraint pkg_emp_vanoug primary key (empno);
 
-create sequence  sn_gen minvalue 8000 increment by 1 start with 8000 cache 20 noorder  nocycle ;
+drop sequence sn_gen;
+
+create sequence sn_gen minvalue 8000 increment by 1 start with 8000 cache 20 noorder  nocycle ;
 
 create or replace trigger trg_emp_vanoug
 before insert on emp_vanoug
@@ -18,8 +20,9 @@ end;
 -- Create dashboard for HR Manager
 
 
--- Create IR for Employees
--- TODO mdsouza: See about creating a modal window
+-- Create IR / form for Employees
+*** COPY THIS QUERY ***
+
 select
   e.empno,
   e.ename,
@@ -138,7 +141,9 @@ SELECT XMLSERIALIZE( DOCUMENT( XMLELEMENT( "data",
 
 
 -- *** CREATE DATA LOAD ****
+Rule: HireDate: to_date(:HIREDATE, 'YYYY-MM-DD')
 
-
+- Change Enclosed by (null)
+- Delim: ,
 
 -- Change icons in list (end)

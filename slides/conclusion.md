@@ -11,4 +11,5 @@ new-slide-vertical
 - <i class="fa fa-envelope-o"></i> [mdsouza@insum.ca](mailto:mdsouza@insum.ca)
 - <i class="fa fa-building-o"></i> [Insum Solutions](http://www.insum.ca)
 
+</br>
 Slides: [github.com/martindsouza/pres-apex-ent-dev](https://github.com/martindsouza/pres-apex-ent-dev)
