@@ -1,0 +1,21 @@
+{
+  "name": "pres-todo",
+  "author": "Martin D'Souza",
+  "version": "1.0.0",
+  "description": "Presentation",
+  "license":"MIT",
+  "repository": {
+    "type": "git",
+    "url": "TODO.git"
+  },
+  "bugs": {
+    "url": "TODO/issues"
+  },
+  "dependencies": {
+    "request": "*",
+    "express": "*",
+    "url": "*",
+    "body-parser": "*",
+    "multer": "*"
+  }
+}

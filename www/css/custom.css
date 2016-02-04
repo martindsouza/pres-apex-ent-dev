@@ -1,0 +1,30 @@
+.reveal section img {
+  border: none;
+}
+
+.no-bullet ~ ul{
+  list-style-type: none;
+}
+
+/* Images */
+.logo-aced{
+  width: 30%
+}
+
+.logo-apex img{
+  width: 40%
+}
+
+/* Colors */
+.white{
+  color: white;
+}
+
+.red{
+  color: red;
+}
+
+.icon-padded{
+  padding-right: 0.3em;
+  padding-left: 0.3em;
+}
