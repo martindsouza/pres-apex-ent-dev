@@ -50,6 +50,10 @@ new-slide-vertical
 new-slide-vertical
 # APEX
 
+<span class="logo-apex">
+![APEX](www/img/apex.png)
+</span>
+
 new-slide-vertical
 <!-- .slide: data-background="#000" -->
 
@@ -57,12 +61,6 @@ new-slide-vertical
 ![Business Users](www/img/business_users.jpg)
 </span>
 
-new-slide-vertical
-# APEX
-
-<span class="logo-apex">
-![APEX](www/img/apex.png)
-</span>
 
 
 new-slide-vertical
