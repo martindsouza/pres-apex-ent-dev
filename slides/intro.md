@@ -11,6 +11,7 @@
 </br>
 - Presentation: [bit.ly/vanoug16](http://bit.ly/vanoug16)
 - Slides: [github.com/martindsouza/pres-apex-ent-dev](https://github.com/martindsouza/pres-apex-ent-dev)
+- Recording: [bit.ly/vanoug16-video](http://bit.ly/vanoug16-video)
 
 Notes:
 - [Turn off notes](javascript: Reveal.configure({"showNotes": false}&#41;;)
